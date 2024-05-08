@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+}
+.navbar
+{
+    display: flex;
+    color: blue;
+    background-color: yellowgreen;
+    height: 25px;
+    width: 100%;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    
+}
+#h
+{
+    color: blue;
+    text-decoration: none;
+    margin-left: 30px;
+    margin-top: 3px;
+    font-size: 20px;
+}
+
+h1
+{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 20%;
+}
+#r
+{
+    color: blue;
+    text-decoration:wavy;
+    margin-left: 75%;
+    margin-top: 3px;
+    font-size: 20px;
+    
+}
